@@ -48,7 +48,7 @@ The results did not support the hypothesis that code authored by a female would 
 ___
 # Statistical Analysis
 
-## Logisitcal Regression and EDA on 1989 Space Shuttle Challenger Accident. 
+## Regression and EDA on 1989 Space Shuttle Challenger Accident. 
 EDA and model exploration (simplifeid logistical regression, probit, and complementary log-log regression).  Four of the 5 models were logistical regresiion with different predictors.  Analysis of Variance was used to compare the models, with the final model selection being a simplified logistical model based on temperature data.
 
 <a href="kari0219.github.io/pdfs/DA_and_model_selection_for_ChallengerSpace_Shuttle.pdf" target="_blank">View Challenger Data Analysis Report </a>
