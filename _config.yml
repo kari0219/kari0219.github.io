@@ -3,8 +3,8 @@ title: Kari's GitHub Page
 author: Kari
 email: kari0219@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Kari's page for grad school projects and miscellaneouss other projects
+  Page for grad school projects and miscellaneouss other projects
 # social links
-github_username:  kari0219
+#github_username:  kari0219
 
 show_excerpts: true # set to false to remove excerpts on the homepage
