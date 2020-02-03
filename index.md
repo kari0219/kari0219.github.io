@@ -9,8 +9,6 @@ Applying NLP Techniques to new domain: dream analysis. Coherent topics will be i
 
 <a href="kari0219.github.io/pdfs/InYourDreams_Topic_Identification_NLP.pdf" target="_blank">View In Your Dreams Paper </a>
 
-___
-
 
 ## Augmented Literacy Learning Platform
 #### Abstract
@@ -20,6 +18,7 @@ System uses OCR to label data for unknown book, CMU Pronouncing Dictionary with 
 Split time between project manager for 100% remote team and working on the Sphnix ASR deployment.
 
 <a href="kari0219.github.io/pdfs/Augmented%20Reality.pdf" target="_blank">View Augmented Learning Platform Slides </a>
+
 
 ___
 
@@ -35,7 +34,6 @@ Amazon Web Services was used to host the app and a HIVE database
 Awarded MVP by teammates for work on data pipelines.
 
 <a href="kari0219.github.io/pdfs/W205_Course_Project_FinalReport_Commuter_Risk_Application.pdf" target="_blank">View Commuter Risk Application Final Paper </a>
-
 
 
 ___
