@@ -1,2 +1,10 @@
 theme: jekyll-theme-slate
-title: Welcome to Kari's homepage.
+title: Kari's GitHub Page
+author: Kari
+email: kari0219@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Kari's page for side projects
+# social links
+github_username:  kari0219
+
+show_excerpts: true # set to false to remove excerpts on the homepage
