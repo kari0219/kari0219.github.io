@@ -41,7 +41,7 @@ Analysis was performed using Intent-to-Treat estimator in order to produce an un
 The results did not support the hypothesis that code authored by a female would be rated less favorably.
 
 
-<a href="kari0219.github.io/pdfs/gender_bias_code_reviews.pdf" target="_blank">View Experimental Design and Analysis for Hypothesis on Existance of Gender Bias in Code Review Paper </a>
+<a href="kari0219.github.io/pdfs/bias_in_code_reviews.pdf" target="_blank">View Experimental Design and Analysis for Hypothesis on Existance of Gender Bias in Code Review Paper </a>
 
 
 
