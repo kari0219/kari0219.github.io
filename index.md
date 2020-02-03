@@ -1,6 +1,6 @@
 ___
 # Machine Learning and Natural Language Processing
-___
+
 
 
 ## In Your Dreams: Coherent Topic Identification from Dream Journals 
@@ -20,7 +20,7 @@ Split time between project manager for 100% remote team and working on the Sphni
 
 ___
 # Data Engineering
-___
+
 
 
 ## Drive Safe: Commuter Risk Application
@@ -34,7 +34,7 @@ Awarded MVP by teammates for work on data pipelines.
 
 ___
 # Field Experiments: Design and Analysis 
-___
+
 ##  Gender Bias in Programming Reviews
 Survey design, administration, and analysis to test the hypothesis that gender bias exists in SW code reviews.
 Analysis was performed using Intent-to-Treat estimator in order to produce an unbiased estimator.
@@ -47,7 +47,6 @@ The results did not support the hypothesis that code authored by a female would 
 
 ___
 # Statistical Analysis
-___
 
 ## Logisitcal Regression and EDA on 1989 Space Shuttle Challenger Accident. 
 EDA and model exploration (simplifeid logistical regression, probit, and complementary log-log regression).  Four of the 5 models were logistical regresiion with different predictors.  Analysis of Variance was used to compare the models, with the final model selection being a simplified logistical model based on temperature data.
