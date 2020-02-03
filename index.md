@@ -4,8 +4,6 @@ ___
 
 
 ## In Your Dreams: Coherent Topic Identification from Dream Journals 
-#### Abstract
-
 Applying NLP Techniques to new domain: dream analysis. Coherent topics will be identified from dream journal entries in order to expand the variety and consistency of categorizations for analysis and reduce the variation, bias, and time requirement of human classification.
 
 <a href="kari0219.github.io/pdfs/InYourDreams_Topic_Identification_NLP.pdf" target="_blank">View In Your Dreams Paper </a>
@@ -13,8 +11,6 @@ Applying NLP Techniques to new domain: dream analysis. Coherent topics will be i
 
 
 ## Augmented Literacy Learning Platform
-#### Abstract
-
 System uses OCR to label data for unknown book, CMU Pronouncing Dictionary with Phoneme Set, and PocketSphnix Speech Recognizer.
 
 Split time between project manager for 100% remote team and working on the Sphnix ASR deployment.
@@ -28,8 +24,6 @@ ___
 
 
 ## Drive Safe: Commuter Risk Application
-#### Abstract
-
 Evaluates the impact of weather on motor vehicle accidents. Pilot study was on data focued on Maryland with data from NOOA and Maryland Crash Data. 
 Amazon Web Services was used to host the app and a HIVE database
 
@@ -41,8 +35,8 @@ Awarded MVP by teammates for work on data pipelines.
 ___
 # Statistical Analysis
 ___
+Summary of data analysis and statistical modeling on sample data obtained for Abalone Data Set.
+Report explores the use of Volumne, Class, and Sex as predictors of Shuck. The independence of CLass and Sex was explored, as well as multiple cutoff points for abalone harvesting.
 
-
-## Abalone Statistical Analysis
-
+<a href="kari0219.github.io/pdfs/Abalone_Data_Analysis2.pdf" target="_blank">View Abalone Data Analysis Paper </a>
 
