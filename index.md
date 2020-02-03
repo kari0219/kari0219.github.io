@@ -38,5 +38,5 @@ ___
 Summary of data analysis and statistical modeling on sample data obtained for Abalone Data Set.
 Report explores the use of Volumne, Class, and Sex as predictors of Shuck. The independence of CLass and Sex was explored, as well as multiple cutoff points for abalone harvesting.
 
-<a href="kari0219.github.io/pdfs/Abalone_Data_Analysis2.pdf" target="_blank">View Abalone Data Analysis Paper </a>
+<a href="kari0219.github.io/pdfs/Abalone_Data_Analysis_Report2.pdf" target="_blank">View Abalone Data Analysis Paper </a>
 
