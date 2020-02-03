@@ -17,7 +17,7 @@ ___
 
 System uses OCR to label data for unknown book, CMU Pronouncing Dictionary with Phoneme Set, and PocketSphnix Speech Recognizer.
 
-Team role was Split time between project manager for 100% remote team and working on the Sphnix ASR deployment.
+Split time between project manager for 100% remote team and working on the Sphnix ASR deployment.
 
 <a href="kari0219.github.io/pdfs/Augmented%20Reality.pdf" target="_blank">View Augmented Learning Platform Slides </a>
 
