@@ -48,6 +48,18 @@ The results did not support the hypothesis that code authored by a female would 
 ___
 # Statistical Analysis
 ___
+
+## Logisitcal Regression and EDA on 1989 Space Shuttle Challenger Accident. 
+EDA and model exploration (simplifeid logistical regression, probit, and complementary log-log regression).  Four of the 5 models were logistical regresiion with different predictors.  Analysis of Variance was used to compare the models, with the final model selection being a simplified logistical model based on temperature data.
+
+<a href="kari0219.github.io/pdfs/DA_and_model_selection_for_ChallengerSpace_Shuttle.pdf" target="_blank">View Challenger Data Analysis Report </a>
+
+## Seasonal ARIMA model  
+Built and analyized a seasonal ARIMA model for quarterly forecat data for E-Commerce Retail Sales as a Product of Total Sales from the US Census Bureau
+https://fred.stlouisfed.org/series/ECOMPCTNSA
+
+<a href="kari0219.github.io/pdfs/ecommerce_data_report.pdf" target="_blank">View Ecommerces Data ARIMA model report</a>
+
 ## Abalone Data Analysis
 Summary of data analysis and statistical modeling on sample data obtained for Abalone Data Set.
 Report explores the use of Volume, Class, and Sex as predictors of Shuck. The independence of Class and Sex was explored, as well as multiple cutoff points for abalone harvesting.
