@@ -1,3 +1,5 @@
+___
+
 # Machine Learning and Natural Language Processing
 ___
 ## In Your Dreams: Coherent Topic Identification from Dream Journals 
@@ -20,6 +22,8 @@ System uses OCR to label data for unknown book, CMU Pronouncing Dictionary with 
 ___
 
 # Data Engineering
+___
+
 ## Drive Safe: Commuter Risk Application
 #### Abstract
 
