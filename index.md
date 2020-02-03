@@ -10,7 +10,7 @@ Applying NLP Techniques to new domain: dream analysis. Coherent topics will be i
 ___
 
 
-## Augmented LIteracy Learning Platform
+## Augmented Literacy Learning Platform
 #### Abstract
 
 System uses OCR to label data for unknown book, CMU Pronouncing Dictionary with Phoneme Set, and PocketSphnix Speech Recognizer 
