@@ -29,7 +29,8 @@ ___
 
 Evaluates the impact of weather on motor vehicle accidents. Pilot study was on data focued on Maryland with data from NOOA and Maryland Crash Data. 
 Amazon Web Services was used to host the app and a HIVE database
-Was awarded MVP by teammates for work on data pipelines.
+
+Awarded MVP by teammates for work on data pipelines.
 
 <a href="kari0219.github.io/pdfs/W205_Course_Project_FinalReport_Commuter_Risk_Application.pdf" target="_blank">View Commuter Risk Application Final Paper </a>
 
