@@ -33,10 +33,23 @@ Awarded MVP by teammates for work on data pipelines.
 
 
 ___
+# Field Experiments: Design and Analysis 
+___
+##  Gender Bias in Programming Reviews
+Survey design, administration, and analysis to test the hypothesis that gender bias exists in SW code reviews.
+Analysis was performed using Intent-to-Treat estimator in order to produce an unbiased estimator.
+The results did not support the hypothesis that code authored by a female would be rated less favorably.
+
+
+<a href="kari0219.github.io/pdfs/gender_bias_code_review.pdf" target="_blank">View Experimental Design and Analysis for Hypothesis on Existance of Gender Bias in Code Review Paper </a>
+
+
+
+___
 # Statistical Analysis
 ___
+## Abalone Data Analysis
 Summary of data analysis and statistical modeling on sample data obtained for Abalone Data Set.
 Report explores the use of Volume, Class, and Sex as predictors of Shuck. The independence of Class and Sex was explored, as well as multiple cutoff points for abalone harvesting.
 
 <a href="kari0219.github.io/pdfs/Abalone_Data_Analysis_Report2.pdf" target="_blank">View Abalone Data Analysis Paper </a>
-
